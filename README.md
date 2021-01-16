@@ -1,8 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightpp)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=knightpp)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://github.com/knightpp/knightpp/blob/master/github-metrics.svg)
 
-
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning Haskell (verrryyyy sloooowwww)
 - 💬 Ask me about anything :)
 - 📫 How to reach me(Telegram): @knightpp 
