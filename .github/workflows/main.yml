@@ -21,6 +21,5 @@ jobs:
           user: knightpp
           template: classic
           base: header, activity, community, repositories, metadata
-          config_animated: yes
           config_timezone: Europe/Kiev
           plugin_languages: yes
