@@ -6,4 +6,4 @@
   - [Matrix](https://matrix.to/#/@knightpp:knightpp.cc)
   - [ActivityPub](https://mastodon.knightpp.cc/@knightpp)
   - [LinkedIn](https://www.linkedin.com/in/knightpp/)
-  - ~~[Telegram](https://t.me/knightpp)~~
+  - Signal — ask me
